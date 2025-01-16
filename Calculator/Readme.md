@@ -12,12 +12,7 @@ This is a simple calculator application built using **HTML**, **CSS**, and **Jav
   - Modulus (%)
 - Clear (AC) and delete (DEL) functionality.
 - Responsive design for different screen sizes.
-
-# Live Demo :
-
-You can view and use the calculator online here:
-[Calculator Live Demo](https://your-username.github.io/HTML-CSS-JS-PROJECTS/calculator/)
-
+- 
 ## How to Use
 
 1. Clone the repository to your local machine:
