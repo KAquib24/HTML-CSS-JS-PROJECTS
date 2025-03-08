@@ -39,10 +39,4 @@ A simple real-time digital clock displaying the current time, day, and date.
 - Add **AM/PM Format**.
 - Introduce **custom themes**.
 - Include **weather integration**.
-
----
-
-Made with ❤️ by [Your Name]
-```
-
-This README file is **ready to use in your GitHub repository**! Let me know if you need any changes. 🚀
+- 
