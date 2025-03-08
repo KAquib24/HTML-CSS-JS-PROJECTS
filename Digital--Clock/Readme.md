@@ -1,42 +1,48 @@
-Here's your **README.md** file for the **Digital Clock** project, formatted for GitHub.  
+# ⏰ Digital Clock  
 
----
+A real-time **Digital Clock** built using **HTML, CSS, and JavaScript**. It dynamically updates the current time, highlights the current day, and displays the date and year.  
 
-### **README.md** for Digital Clock  
+## 🎯 Features  
 
-```markdown
-# 🕒 Digital Clock
+✅ Displays the current hour, minute, and second in real-time  
+✅ Highlights the current day in **light blue and bold**  
+✅ Shows the date and year dynamically  
+✅ Uses `setInterval` to update the clock every second  
+✅ Simple and clean UI  
 
-A simple real-time digital clock displaying the current time, day, and date.
+## 📸 Preview  
 
-## 📌 Features
+https://kaquib24.github.io/Digital-Clock-Using-HTML-CSS-AND-JS/
 
-- Displays **current hour, minutes, and seconds**.
-- Highlights the **current day** dynamically.
-- Shows the **current date and year**.
-- Updates every second using JavaScript.
+## 🛠️ Technologies Used  
 
-## 🛠️ Technologies Used
+- **HTML** – Structure of the clock  
+- **CSS** – Styling and layout  
+- **JavaScript** – Logic for real-time updates  
 
-- **HTML** - Structure of the clock.
-- **CSS** - Styling and design.
-- **JavaScript** - Updates time dynamically.
+## 📂 Project Structure  
 
-## 🚀 How to Use
+📁 Digital Clock  
+ ├── 📄 index.html  (Main HTML file)  
+ ├── 🎨 style.css  (Styling for the clock)  
+ ├── 🎯 script.js  (JavaScript logic)  
+ └── 📄 README.md  (Project documentation)  
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/digital-clock.git
-   ```
-2. Open `index.html` in your browser.
+🔗 Clone the Project
 
-## 📸 Screenshot
+To clone and run this project,Download this repo using below link:
+https://github.com/KAquib24/Digital-Clock-Using-HTML-CSS-AND-JS.git
 
-![Digital Clock Preview](screenshot.png)
+Replace <your-repository-link> with the actual GitHub/GitLab/Bitbucket repository URL where your project is hosted.
 
-## 🎯 Future Enhancements
+## 🚀 How It Works  
 
-- Add **AM/PM Format**.
-- Introduce **custom themes**.
-- Include **weather integration**.
-- 
+1. The `syncClock()` function fetches the current **hour, minute, second, date, and year**.  
+2. It updates the **time** and **date** dynamically.  
+3. The **current day** is highlighted in **light blue and bold** for better visibility.  
+4. The clock **refreshes every second** using `setInterval(syncClock, 1000)`.  
+
+## 👨‍💻 Author  
+
+📌 **Aqib Khan**  
+📧 [aquibkhan8108@gmail.com](mailto:aquibkhan8108@gmail.com)  
