@@ -1,0 +1,33 @@
+@import url('https://fonts.cdnfonts.com/css/ds-digital');
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;  
+    align-items: center;  
+    background-color: black; 
+}
+
+#container {
+    background-color: black;
+    padding: 20px;
+    border: 6px solid grey;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 0px 10px lightblue(0, 0, 0, 0.3);
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+}
+#date{
+    display: flex;
+    justify-content: space-between;
+}
+
+#time{
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+    font-size: 100px;
+    font-family: 'DS-Digital';
+}
